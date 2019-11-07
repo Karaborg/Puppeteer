@@ -3,8 +3,6 @@
 [![APLv2][license-badge]][LICENSE]
 [![Build Status][travis-badge]][travis-ci]
 
-[![Donate][donate-badge]][donate]
-
 # node-typescript-boilerplate
 
 Minimalistic boilerplate to jump-start a [Node.js][nodejs] project in [TypeScript][typescript] [3.7][typescript-37].
