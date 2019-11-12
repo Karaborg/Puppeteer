@@ -47,8 +47,8 @@ let gameURLs: string[] = [];
         varning++
       }
       if(varning <= 1){
-        console.log(innerText)
-        //listOfGameLinks(page)
+        //console.log(innerText)
+        listOfGameLinks(page)
       }else{
         break
       }
